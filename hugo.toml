@@ -1,0 +1,4 @@
+baseURL = 'https://kinisoftware.com/'
+languageCode = 'en-us'
+title = 'Kinisoftware'
+theme = 'ananke'
